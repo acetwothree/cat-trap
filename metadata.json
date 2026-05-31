@@ -1,0 +1,6 @@
+{
+  "name": "Trap the Cat",
+  "description": "A polished, casual puzzle game where you trap a cat on a hexagonal grid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
